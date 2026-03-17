@@ -1,0 +1,40 @@
+{
+  "projectName": "guide_japan",
+  "description": "English Japan life guide — automated article pipeline",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node .claude/hooks/validation.js $CLAUDE_TOOL_INPUT_FILE_PATH"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": [
+    ".claude/skills/article-generation/SKILL.md",
+    ".claude/skills/internal-linking/SKILL.md",
+    ".claude/skills/seo-optimization/SKILL.md"
+  ],
+  "env": {
+    "SITE_BASE_URL": "https://guide-japan.tacky-consulting.com",
+    "AKIYA_URL": "https://akiya.tacky-consulting.com",
+    "SUBSTACK_URL": "https://guidejapanenglish.substack.com",
+    "GITHUB_REPO": "apartmentxjp-commits/guide_japan",
+    "CONTENT_DIR": "site/content",
+    "MIN_WORD_COUNT": "800"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(hugo*)",
+      "Bash(python*)",
+      "Bash(node*)",
+      "Bash(git*)",
+      "Write(site/content/**)",
+      "Write(content/**)"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+baseURL = "https://guide-japan.tacky-consulting.com"
+languageCode = "en-us"
+title = "Guide Japan — Life in Japan for Foreigners"
+theme = "guide-japan"
+paginate = 12
+enableRobotsTXT = true
+canonifyURLs = false
+
+[params]
+  description = "The complete English guide to living, working, and investing in Japan. Visa, housing, culture, safety, and real estate — all in one place."
+  author = "Guide Japan Editorial Team"
+  akiya_url = "https://akiya.tacky-consulting.com"
+  substack_url = "https://guidejapanenglish.substack.com"
+  openclaw_url = "https://openclaw.tacky-consulting.com"
+  twitter = "@guide_japan"
+  og_image = "/images/og-default.jpg"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    name = "Visa"
+    url = "/visa/"
+    weight = 1
+  [[menu.main]]
+    name = "Living"
+    url = "/living/"
+    weight = 2
+  [[menu.main]]
+    name = "Culture"
+    url = "/culture/"
+    weight = 3
+  [[menu.main]]
+    name = "Safety"
+    url = "/safety/"
+    weight = 4
+  [[menu.main]]
+    name = "Real Estate"
+    url = "/real-estate/"
+    weight = 5
+  [[menu.main]]
+    name = "🏡 Akiya Portal"
+    url = "https://akiya.tacky-consulting.com"
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
+
+[minify]
+  disableHTML = false
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.7

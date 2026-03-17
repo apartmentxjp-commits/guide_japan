@@ -1,0 +1,29 @@
+<!-- Reusable CTA block — include with: {{ partial "cta.html" . }} -->
+<div class="my-10 rounded-2xl overflow-hidden"
+     style="background: linear-gradient(135deg, #0f2027 0%, #1a3a2a 50%, #0d1f18 100%); position:relative;">
+  <!-- dot mesh overlay -->
+  <div style="position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.06) 1px,transparent 1px);background-size:20px 20px;pointer-events:none;"></div>
+
+  <div class="relative z-10 px-6 py-8 md:px-10 md:py-10">
+    <h3 class="text-white text-xl font-bold mb-2">Thinking about living or investing in Japan?</h3>
+    <p class="text-slate-300 text-sm mb-6">From visa to property — we've got your Japan journey covered.</p>
+
+    <div class="flex flex-col sm:flex-row gap-3">
+      <!-- Akiya CTA -->
+      <a href="{{ .Site.Params.akiya_url }}"
+         target="_blank" rel="noopener"
+         class="flex items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-sm transition-all
+                bg-emerald-500 text-white hover:bg-emerald-400 hover:shadow-lg hover:shadow-emerald-500/25">
+        🏡 Browse Akiya (Vacant Houses)
+      </a>
+
+      <!-- Substack CTA -->
+      <a href="{{ .Site.Params.substack_url }}"
+         target="_blank" rel="noopener"
+         class="flex items-center justify-center gap-2 px-5 py-3 rounded-xl font-semibold text-sm transition-all
+                bg-orange-500 text-white hover:bg-orange-400 hover:shadow-lg hover:shadow-orange-500/25">
+        📬 Weekly Japan Guide (Free)
+      </a>
+    </div>
+  </div>
+</div>

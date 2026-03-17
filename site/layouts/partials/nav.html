@@ -1,0 +1,50 @@
+<nav class="bg-slate-900 border-b border-slate-700 sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="flex items-center justify-between h-14">
+      <!-- Logo -->
+      <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-2">
+        <span class="text-white font-bold text-lg tracking-tight">🗾 Guide Japan</span>
+      </a>
+
+      <!-- Desktop nav -->
+      <div class="hidden md:flex items-center space-x-1">
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}"
+           class="px-3 py-1.5 rounded-md text-sm font-medium transition-colors
+           {{ if hasPrefix $.RelPermalink .URL }}
+             bg-slate-700 text-white
+           {{ else if eq .Name "🏡 Akiya Portal" }}
+             bg-emerald-600 text-white hover:bg-emerald-500
+           {{ else }}
+             text-slate-300 hover:text-white hover:bg-slate-800
+           {{ end }}"
+           {{ if strings.HasSuffix .URL "tacky-consulting.com" }}target="_blank" rel="noopener"{{ end }}>
+          {{ .Name }}
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- Mobile menu button -->
+      <button id="mobile-menu-btn" class="md:hidden text-slate-400 hover:text-white p-2">
+        <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile nav -->
+    <div id="mobile-menu" class="hidden md:hidden pb-3">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}"
+         class="block px-3 py-2 text-sm font-medium text-slate-300 hover:text-white hover:bg-slate-800 rounded-md">
+        {{ .Name }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</nav>
+<script>
+  document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
+    document.getElementById('mobile-menu')?.classList.toggle('hidden');
+  });
+</script>

@@ -1,0 +1,34 @@
+# Environment
+.env
+*.env.local
+
+# Hugo build output
+site/public/
+site/resources/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Database
+*.db
+*.sqlite
+dev.db
+
+# Logs
+logs/
+*.log
+
+# Docker volumes
+data/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editor
+.vscode/
+.idea/
+*.swp

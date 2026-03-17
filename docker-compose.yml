@@ -1,0 +1,81 @@
+version: "3.9"
+
+# guide_japan — Docker Compose
+# ALL services run inside Docker. Zero access to host machine files outside
+# the project directory. The backend and scheduler are isolated containers.
+#
+# Usage:
+#   docker-compose up -d           → start all services
+#   docker-compose logs -f         → watch logs
+#   docker-compose restart backend → restart after code changes
+#
+# NOTE: The 'site/' directory is NOT mounted to any container.
+# The scheduler pushes articles directly to GitHub via API.
+# Hugo build is triggered by GitHub Actions on push — not run locally.
+
+services:
+
+  # ── FastAPI backend ───────────────────────────────────────────
+  backend:
+    build: ./backend
+    container_name: guide-japan-backend
+    restart: unless-stopped
+    ports:
+      - "8001:8000"          # expose on 8001 to avoid conflict with openclaw_seo
+    volumes:
+      - ./backend:/app       # bind mount for hot reload
+      - guide_japan_db:/app/data
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=sqlite:////app/data/guide_japan.db
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    networks:
+      - guide_japan_net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ── APScheduler (article generation) ─────────────────────────
+  scheduler:
+    build: ./backend
+    container_name: guide-japan-scheduler
+    restart: unless-stopped
+    volumes:
+      - ./backend:/app
+      - guide_japan_db:/app/data
+      - ./logs:/app/logs
+    env_file:
+      - .env
+    environment:
+      - DATABASE_URL=sqlite:////app/data/guide_japan.db
+    command: python scheduler.py
+    networks:
+      - guide_japan_net
+    depends_on:
+      - backend
+
+  # ── Nginx reverse proxy (optional — for local preview) ───────
+  nginx:
+    image: nginx:alpine
+    container_name: guide-japan-nginx
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+    networks:
+      - guide_japan_net
+    depends_on:
+      - backend
+
+volumes:
+  guide_japan_db:
+    name: guide_japan_db
+
+networks:
+  guide_japan_net:
+    name: guide_japan_net
