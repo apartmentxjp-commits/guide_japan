@@ -1,7 +1,6 @@
 baseURL = "https://guide-japan.tacky-consulting.com"
 languageCode = "en-us"
 title = "Guide Japan — Life in Japan for Foreigners"
-theme = "guide-japan"
 paginate = 12
 enableRobotsTXT = true
 canonifyURLs = false
