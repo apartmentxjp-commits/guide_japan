@@ -1,6 +1,6 @@
 ---
 title: "Moving to Rural Japan: Inaka Life Guide for Expats"
-date: 2026-03-29T09:00:00+09:00
+date: 2026-04-07T09:00:00+09:00
 description: "A guide to moving to rural japan: inaka life guide for expats for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
