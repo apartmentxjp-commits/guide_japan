@@ -1,6 +1,6 @@
 ---
 title: "Akiya Success Stories: Foreigners Who Bought Rural Japan Homes"
-date: 2026-04-08T09:00:00+09:00
+date: 2026-04-10T09:00:00+09:00
 description: "A guide to akiya success stories: foreigners who bought rural japan homes for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
