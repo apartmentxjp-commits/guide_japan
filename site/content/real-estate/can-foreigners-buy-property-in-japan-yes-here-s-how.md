@@ -1,6 +1,6 @@
 ---
 title: "Can Foreigners Buy Property in Japan? (Yes, Here's How)"
-date: 2026-04-02T09:00:00+09:00
+date: 2026-04-11T09:00:00+09:00
 description: "A guide to can foreigners buy property in japan? (yes, here's how) for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
