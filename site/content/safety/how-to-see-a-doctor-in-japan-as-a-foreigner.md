@@ -1,6 +1,6 @@
 ---
 title: "How to See a Doctor in Japan as a Foreigner"
-date: 2026-03-20T04:00:00+09:00
+date: 2026-04-13T04:00:00+09:00
 description: "A guide to how to see a doctor in japan as a foreigner for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
