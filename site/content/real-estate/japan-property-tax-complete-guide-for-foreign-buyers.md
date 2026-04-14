@@ -1,6 +1,6 @@
 ---
 title: "Japan Property Tax: Complete Guide for Foreign Buyers"
-date: 2026-03-26T09:00:00+09:00
+date: 2026-04-14T09:00:00+09:00
 description: "A guide to japan property tax: complete guide for foreign buyers for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
