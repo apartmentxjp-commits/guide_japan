@@ -1,6 +1,6 @@
 ---
 title: "Japan Real Estate Market Outlook and Trends 2025"
-date: 2026-04-09T09:00:00+09:00
+date: 2026-04-16T09:00:00+09:00
 description: "A guide to japan real estate market outlook and trends 2025 for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
