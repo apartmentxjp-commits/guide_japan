@@ -1,6 +1,6 @@
 ---
 title: "Japan Real Estate Investment Guide for Foreigners 2025"
-date: 2026-04-13T09:00:00+09:00
+date: 2026-04-17T09:00:00+09:00
 description: "A guide to japan real estate investment guide for foreigners 2025 for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
