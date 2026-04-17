@@ -1,6 +1,6 @@
 ---
 title: "Japan National Health Insurance Guide for Expats"
-date: 2026-03-25T04:00:00+09:00
+date: 2026-04-18T00:00:00+09:00
 description: "A guide to japan national health insurance guide for expats for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
