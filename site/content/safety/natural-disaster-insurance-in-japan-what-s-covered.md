@@ -1,6 +1,6 @@
 ---
 title: "Natural Disaster Insurance in Japan: What's Covered"
-date: 2026-04-02T04:00:00+09:00
+date: 2026-04-17T04:00:00+09:00
 description: "A guide to natural disaster insurance in japan: what's covered for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
