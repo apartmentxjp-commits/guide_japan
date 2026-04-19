@@ -1,6 +1,6 @@
 ---
 title: "Best Affordable Regions to Buy Property in Japan"
-date: 2026-04-12T09:00:00+09:00
+date: 2026-04-19T09:00:00+09:00
 description: "A guide to best affordable regions to buy property in japan for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
