@@ -1,6 +1,6 @@
 ---
 title: "Japan Business Manager Visa Guide"
-date: 2026-04-07T00:00:00+09:00
+date: 2026-04-20T00:00:00+09:00
 description: "A guide to japan business manager visa guide for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
