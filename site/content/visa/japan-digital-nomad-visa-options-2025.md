@@ -1,6 +1,6 @@
 ---
 title: "Japan Digital Nomad Visa Options 2025"
-date: 2026-03-29T00:00:00+09:00
+date: 2026-04-21T00:00:00+09:00
 description: "A guide to japan digital nomad visa options 2025 for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
