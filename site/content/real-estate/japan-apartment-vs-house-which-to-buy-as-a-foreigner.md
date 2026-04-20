@@ -1,6 +1,6 @@
 ---
 title: "Japan Apartment vs House: Which to Buy as a Foreigner"
-date: 2026-04-01T09:00:00+09:00
+date: 2026-04-20T09:00:00+09:00
 description: "A guide to japan apartment vs house: which to buy as a foreigner for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
