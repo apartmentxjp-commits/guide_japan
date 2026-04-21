@@ -1,6 +1,6 @@
 ---
 title: "Japan J-Alert Emergency System Explained for Foreigners"
-date: 2026-04-08T04:00:00+09:00
+date: 2026-04-21T04:00:00+09:00
 description: "A guide to japan j-alert emergency system explained for foreigners for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
