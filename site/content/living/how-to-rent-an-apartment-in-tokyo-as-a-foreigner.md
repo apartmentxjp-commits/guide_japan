@@ -1,6 +1,6 @@
 ---
 title: "How to Rent an Apartment in Tokyo as a Foreigner"
-date: 2026-04-14T04:00:00+09:00
+date: 2026-04-22T00:00:00+09:00
 description: "A guide to how to rent an apartment in tokyo as a foreigner for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
