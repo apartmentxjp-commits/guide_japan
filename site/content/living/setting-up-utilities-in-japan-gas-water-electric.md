@@ -1,6 +1,6 @@
 ---
 title: "Setting Up Utilities in Japan: Gas, Water, Electric"
-date: 2026-03-30T04:00:00+09:00
+date: 2026-04-23T00:00:00+09:00
 description: "A guide to setting up utilities in japan: gas, water, electric for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
