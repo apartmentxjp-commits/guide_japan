@@ -1,6 +1,6 @@
 ---
 title: "Japan Earthquake Preparedness Guide for Expats"
-date: 2026-03-19T04:00:00+09:00
+date: 2026-04-22T04:00:00+09:00
 description: "A guide to japan earthquake preparedness guide for expats for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
