@@ -1,6 +1,6 @@
 ---
 title: "Japan Pension System Explained for Expats"
-date: 2026-04-09T04:00:00+09:00
+date: 2026-04-23T04:00:00+09:00
 description: "A guide to japan pension system explained for expats for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
