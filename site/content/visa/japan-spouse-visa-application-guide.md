@@ -1,6 +1,6 @@
 ---
 title: "Japan Spouse Visa Application Guide"
-date: 2026-04-02T00:00:00+09:00
+date: 2026-04-25T00:00:00+09:00
 description: "A guide to japan spouse visa application guide for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
