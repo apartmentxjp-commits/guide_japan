@@ -1,6 +1,6 @@
 ---
 title: "How to Buy an Akiya (Vacant House) in Japan Complete Guide"
-date: 2026-03-18T09:00:00+09:00
+date: 2026-04-24T09:00:00+09:00
 description: "A guide to how to buy an akiya (vacant house) in japan complete guide for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
