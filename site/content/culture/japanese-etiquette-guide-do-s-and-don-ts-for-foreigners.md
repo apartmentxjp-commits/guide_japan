@@ -1,6 +1,6 @@
 ---
 title: "Japanese Etiquette Guide: Do's and Don'ts for Foreigners"
-date: 2026-03-26T00:00:00+09:00
+date: 2026-04-26T00:00:00+09:00
 description: "A guide to japanese etiquette guide: do's and don'ts for foreigners for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
