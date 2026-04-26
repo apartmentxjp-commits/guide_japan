@@ -1,6 +1,6 @@
 ---
 title: "Akiya Banks: How to Find Cheap Houses in Rural Japan"
-date: 2026-04-23T09:00:00+09:00
+date: 2026-04-26T09:00:00+09:00
 description: "A guide to akiya banks: how to find cheap houses in rural japan for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
