@@ -1,6 +1,6 @@
 ---
 title: "How to Apply for a Japan Work Visa Step by Step"
-date: 2026-03-23T00:00:00+09:00
+date: 2026-04-27T00:00:00+09:00
 description: "A guide to how to apply for a japan work visa step by step for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
