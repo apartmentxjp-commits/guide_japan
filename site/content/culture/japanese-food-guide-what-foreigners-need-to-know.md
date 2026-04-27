@@ -1,6 +1,6 @@
 ---
 title: "Japanese Food Guide: What Foreigners Need to Know"
-date: 2026-03-31T00:00:00+09:00
+date: 2026-04-27T04:00:00+09:00
 description: "A guide to japanese food guide: what foreigners need to know for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
