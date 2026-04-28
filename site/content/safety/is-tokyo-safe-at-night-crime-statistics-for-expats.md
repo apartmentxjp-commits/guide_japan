@@ -1,6 +1,6 @@
 ---
 title: "Is Tokyo Safe at Night? Crime Statistics for Expats"
-date: 2026-04-07T04:00:00+09:00
+date: 2026-04-28T04:00:00+09:00
 description: "A guide to is tokyo safe at night? crime statistics for expats for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
