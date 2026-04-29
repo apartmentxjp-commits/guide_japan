@@ -1,6 +1,6 @@
 ---
 title: "Japan Emergency Numbers and Services Guide"
-date: 2026-03-23T04:00:00+09:00
+date: 2026-04-29T04:00:00+09:00
 description: "A guide to japan emergency numbers and services guide for foreigners living in or moving to Japan."
 categories: ["safety"]
 tags: ["japan", "safety", "foreigners", "expat guide"]
