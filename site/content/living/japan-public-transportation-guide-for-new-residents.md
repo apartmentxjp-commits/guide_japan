@@ -1,6 +1,6 @@
 ---
 title: "Japan Public Transportation Guide for New Residents"
-date: 2026-04-29T00:00:00+09:00
+date: 2026-04-30T00:00:00+09:00
 description: "A guide to japan public transportation guide for new residents for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
