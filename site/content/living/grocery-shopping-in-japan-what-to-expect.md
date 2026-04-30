@@ -1,6 +1,6 @@
 ---
 title: "Grocery Shopping in Japan: What to Expect"
-date: 2026-04-06T04:00:00+09:00
+date: 2026-04-30T04:00:00+09:00
 description: "A guide to grocery shopping in japan: what to expect for foreigners living in or moving to Japan."
 categories: ["living"]
 tags: ["japan", "living", "foreigners", "expat guide"]
