@@ -1,6 +1,6 @@
 ---
 title: "Renovating an Old Japanese House (Kominka) Step by Step"
-date: 2026-03-27T09:00:00+09:00
+date: 2026-04-30T09:00:00+09:00
 description: "A guide to renovating an old japanese house (kominka) step by step for foreigners living in or moving to Japan."
 categories: ["real-estate"]
 tags: ["japan", "real-estate", "foreigners", "expat guide"]
