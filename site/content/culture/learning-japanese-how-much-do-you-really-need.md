@@ -1,6 +1,6 @@
 ---
 title: "Learning Japanese: How Much Do You Really Need?"
-date: 2026-04-15T04:00:00+09:00
+date: 2026-05-01T00:00:00+09:00
 description: "A guide to learning japanese: how much do you really need? for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
