@@ -1,6 +1,6 @@
 ---
 title: "How to Navigate Japanese Convenience Stores (Combini)"
-date: 2026-03-31T04:00:00+09:00
+date: 2026-05-01T04:00:00+09:00
 description: "A guide to how to navigate japanese convenience stores (combini) for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
