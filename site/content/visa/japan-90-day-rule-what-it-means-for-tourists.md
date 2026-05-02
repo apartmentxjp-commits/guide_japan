@@ -1,6 +1,6 @@
 ---
 title: "Japan 90-Day Rule: What It Means for Tourists"
-date: 2026-04-17T00:00:00+09:00
+date: 2026-05-03T00:00:00+09:00
 description: "A guide to japan 90-day rule: what it means for tourists for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
