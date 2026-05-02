@@ -1,6 +1,6 @@
 ---
 title: "Japan's Garbage Sorting Rules Explained Simply"
-date: 2026-04-10T04:00:00+09:00
+date: 2026-05-02T04:00:00+09:00
 description: "A guide to japan's garbage sorting rules explained simply for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
