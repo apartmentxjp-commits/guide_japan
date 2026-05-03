@@ -1,6 +1,6 @@
 ---
 title: "Japan Highly Skilled Professional Visa (HSP) Guide"
-date: 2026-04-11T00:00:00+09:00
+date: 2026-05-04T00:00:00+09:00
 description: "A guide to japan highly skilled professional visa (hsp) guide for foreigners living in or moving to Japan."
 categories: ["visa"]
 tags: ["japan", "visa", "foreigners", "expat guide"]
