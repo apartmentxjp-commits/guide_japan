@@ -1,6 +1,6 @@
 ---
 title: "Japan Onsen Rules: Complete Foreigner's Guide"
-date: 2026-04-19T00:00:00+09:00
+date: 2026-05-05T00:00:00+09:00
 description: "A guide to japan onsen rules: complete foreigner's guide for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
