@@ -1,6 +1,6 @@
 ---
 title: "Japanese Seasons and What to Expect as a Resident"
-date: 2026-04-25T04:00:00+09:00
+date: 2026-05-04T04:00:00+09:00
 description: "A guide to japanese seasons and what to expect as a resident for foreigners living in or moving to Japan."
 categories: ["culture"]
 tags: ["japan", "culture", "foreigners", "expat guide"]
